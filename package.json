@@ -1,0 +1,17 @@
+{
+  "name": "practica-03",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["Web Scraping", "Node.js", "Puppeteer"],
+  "author": "Valentin Hernandez",
+  "license": "ISC",
+  "description": "practica de Web Scraping utilizando node.js y puppeteer - Ejemplos Prácticos",
+  "dependencies": {
+    "puppeteer": "^24.9.0"
+  }
+}
